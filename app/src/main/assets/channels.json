@@ -1,0 +1,114 @@
+[
+  {
+    "provider": "Nova",
+    "channels": [
+      {
+        "name": "Nova 2",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-632.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Nova 3",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-633.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Nova 4",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-634.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Nova 5",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-635.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Nova 6",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-636.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Nova Premier League",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-599.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Nova Prime",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-638.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Nova Start",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-637.php", "referer": "https://daddylive.pk/" }
+        ]
+      }
+    ]
+  },
+  {
+    "provider": "Cosmote",
+    "channels": [
+      {
+        "name": "Cosmote 1",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-622.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Cosmote 2",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-623.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Cosmote 3",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-624.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Cosmote 4",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-625.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Cosmote 5",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-626.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Cosmote 6",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-627.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Cosmote 7",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-628.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Cosmote 8",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-629.php", "referer": "https://daddylive.pk/" }
+        ]
+      },
+      {
+        "name": "Cosmote 9",
+        "sources": [
+          { "title": "Play Stream", "streamUrl": "https://dlstreams.st/stream/stream-630.php", "referer": "https://daddylive.pk/" }
+        ]
+      }
+    ]
+  }
+]
